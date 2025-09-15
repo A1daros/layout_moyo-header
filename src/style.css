@@ -24,7 +24,7 @@ body {
   align-items: center;
 }
 
-.logo img {
+.log__img {
   width: 40px;
   height: 40px;
 }
@@ -51,6 +51,7 @@ body {
 .nav__link {
   display: flex;
   align-items: center;
+  justify-content: center;
   height: 60px;
   line-height: auto;
   text-transform: uppercase;
